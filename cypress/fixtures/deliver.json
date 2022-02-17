@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name":"Leandro Pereira",
+        "cpf":"20150672055",
+        "email":"eladio_prohaska48@gmail.com",
+        "whatsapp":"2199999999",
+        "address":{
+            "postalcode": "04534011",
+            "street":"Rua Joaquim Floriano",
+            "number":"1000",
+            "details": "Ap 142",
+            "district":"Itaim Bibi",
+            "city_state":"São Paulo/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh":"cnh-digital.jpg"
+    },
+    "cpf_invalido":{
+        "name":"Leandro Pereira",
+        "cpf":"201506720AA",
+        "email":"eladio_prohaska48@gmail.com",
+        "whatsapp":"2199999999",
+        "address":{
+            "postalcode": "04534011",
+            "street":"Rua Joaquim Floriano",
+            "number":"1000",
+            "details": "Ap 142",
+            "district":"Itaim Bibi",
+            "city_state":"São Paulo/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh":"cnh-digital.jpg"
+    },
+    "email_invalido":{
+        "name":"Leandro Pereira",
+        "cpf":"20150672055",
+        "email":"teste.com.br",
+        "whatsapp":"2199999999",
+        "address":{
+            "postalcode": "04534011",
+            "street":"Rua Joaquim Floriano",
+            "number":"1000",
+            "details": "Ap 142",
+            "district":"Itaim Bibi",
+            "city_state":"São Paulo/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh":"cnh-digital.jpg"
+    }
+}
